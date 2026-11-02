@@ -1,2 +1,3 @@
 Manual Testing
 Automation Testing
+API Testing
